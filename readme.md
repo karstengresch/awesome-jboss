@@ -15,9 +15,13 @@ A list curating resources and information related to JBoss Middleware.
 
 ## Subprojects
 ### Community/Upstream
+
 [KIE Group](http://www.kiegroup.org)
+
 [Drools (BRMS)](http://www.drools.org)
+
 [jBPM](http://www.jbpm.org)
+
 [Opta Planner (Constraint Satisfaction Solver)](http://www.optaplanner.org)
 
 
