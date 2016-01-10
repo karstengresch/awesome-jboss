@@ -24,11 +24,17 @@ A list curating resources and information related to JBoss Middleware.
 
 [jBPM](http://www.jbpm.org) - A BPM engine *and* framework.
 
-[Opta Planner (Constraint Satisfaction Solver)](http://www.optaplanner.org)
+[Opta Planner](http://www.optaplanner.org) - Constraint satisfaction solver. I.e. a planning engine for the enterprise.
 
 [Arquillian](http://arquillian.org) - Server side testing done right.
 
 [ModeShape](http://modeshape.jboss.org) - Distributed, hierarchical, transactional, and consistent data store. Doesn't get the audience it deserves IMHO.
+
+[Narayana](http://narayana.io) - Transaction manager, even spans across C++ and Java.
+
+[LiveOak](http://liveoak.io) - Looks like a BaaS to me like [BaasBox](http://www.baasbox.com) or [Apache UserGrid](http://usergrid.apache.org). Not sure why/in which way it serves as a JBoss upstream project.
+
+[Nodyn](http://nodyn.io) - Framework allowing 
 
 
 ### Red Hat
