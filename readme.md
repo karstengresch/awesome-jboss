@@ -28,13 +28,19 @@ A list curating resources and information related to JBoss Middleware.
 
 [Arquillian](http://arquillian.org) - Server side testing done right.
 
+[RestEasy](http://resteasy.jboss.org) - Helps creating REST services on WildFly (being container agnostic, though).
+
 [ModeShape](http://modeshape.jboss.org) - Distributed, hierarchical, transactional, and consistent data store. Doesn't get the audience it deserves IMHO.
 
 [Narayana](http://narayana.io) - Transaction manager, even spans across C++ and Java.
 
 [LiveOak](http://liveoak.io) - Looks like a BaaS to me like [BaasBox](http://www.baasbox.com) or [Apache UserGrid](http://usergrid.apache.org). Not sure why/in which way it serves as a JBoss upstream project.
 
-[Nodyn](http://nodyn.io) - Framework allowing 
+[Nodyn](http://nodyn.io) - Framework allowing
+
+[WildFly Swarm](http://wildfly-swarm.io) - Allows putting services into a single deployable but still Java EE conformant jar. Perfect for microservices.
+
+[Keycloak](http://keycloak.jboss.org) - SSO solution (including social auth). Out-of-the box screens, zero-coding setups, session administration etc. Like OpenSSO on steroids.
 
 
 ### Red Hat
