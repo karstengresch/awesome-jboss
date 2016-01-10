@@ -16,13 +16,17 @@ A list curating resources and information related to JBoss Middleware.
 ## Subprojects
 ### Community/Upstream
 
-[KIE Group](http://www.kiegroup.org)
+[KIE Group](http://www.kiegroup.org) - The umbrella project for things related to BPM, BAM, BRM and alike tools. Powerful enterprise stuff.
 
-[Drools (BRMS)](http://www.drools.org)
+[Drools (BRMS)](http://www.drools.org) - Business Rules engine *and* framework.
 
-[jBPM](http://www.jbpm.org)
+[jBPM](http://www.jbpm.org) - A BPM engine *and* framework.
 
 [Opta Planner (Constraint Satisfaction Solver)](http://www.optaplanner.org)
+
+[Arquillian](http://arquillian.org) - Server side testing done right.
+
+[ModeShape](http://modeshape.jboss.org) - Distributed, hierarchical, transactional, and consistent data store. Doesn't get the audience it deserves IMHO.
 
 
 ### Red Hat
