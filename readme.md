@@ -16,6 +16,8 @@ A list curating resources and information related to JBoss Middleware.
 ## Subprojects
 ### Community/Upstream
 
+[WildFly](http://wildfly.org) - Formerly called JBoss Application Server, a name now reserved for the offering supported by Red Hat. Very lightweight Java EE (and JavaScript!) environment, scalable, extensible, normally technically a bit ahead of the JBoss AS
+
 [KIE Group](http://www.kiegroup.org) - The umbrella project for things related to BPM, BAM, BRM and alike tools. Powerful enterprise stuff.
 
 [Drools (BRMS)](http://www.drools.org) - Business Rules engine *and* framework.
@@ -30,6 +32,7 @@ A list curating resources and information related to JBoss Middleware.
 
 
 ### Red Hat
+[JBoss Enterprise Application Platform (EAP)](http://www.redhat.com/en/technologies/jboss-middleware/application-platform) - Basically the licensed and supported WildFly offering from Red Hat.
 
 ## JBoss (Related) Blogs
 
