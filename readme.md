@@ -1,6 +1,6 @@
 # Awesome JBoss
 
-A list curating resources and information related to JBoss Middleware.
+A list curating resources and information related to JBoss Middleware. The broad range of products, upstream projects and people involved makes it difficult to structurize this information - stay tuned and be patient, later or later you'll get a nicely on stop JBoss resource here :)
 
 ## Official Sites
 
