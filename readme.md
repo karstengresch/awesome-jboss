@@ -61,10 +61,10 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 
 ## People
-### [JBoss Heroes](https://twitter.com/JohnAment)
+### [JBoss Heroes](https://www.jboss.org/heroes/)
 Red Hat sponsored program - selected members of JBoss Developers that made huge contributions to the products/the community. NB: Only very few are associates of Red Hat.
 
-
+* [John Ament](https://twitter.com/JohnAment)
  
 
 
