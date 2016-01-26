@@ -50,6 +50,8 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [AeroGear](https://aerogear.org) - Libraries/server-side components helping you build a platform agnostic infrastructure for mobile applications. Currently supported: Android, iOS, JavaScript, Cordova, Windows. Modules: Push, Security, Sync.
 
+[apiman](http://www.apiman.io/) Allows applying runtime policy governance to APIs. Uses cases e.g.: service throttling, centralized security, billing and metrics.
+
 
 ### Red Hat
 [JBoss Enterprise Application Platform (EAP)](http://www.redhat.com/en/technologies/jboss-middleware/application-platform) - Basically the licensed and supported WildFly offering from Red Hat.
