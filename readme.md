@@ -40,7 +40,7 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [WildFly Swarm](http://wildfly-swarm.io) - Allows putting services into a single deployable but still Java EE conformant jar. Perfect for microservices.
 
-[Keycloak](http://keycloak.jboss.org) - SSO solution (including social auth). Out-of-the box screens, zero-coding setups, session administration etc. Like OpenSSO on steroids.
+[Keycloak](http://keycloak.jboss.org) - SSO solution (including social auth). Out-of-the box screens, zero-coding setups, session administration etc. Like OpenSSO on steroids. Deployable to an app server, as black box appliance or to OpenShift cartridge/as OpenShift service.
 
 [Hawkular](http://www.hawkular.org) - Feature full monitoring and management platform.
 
@@ -55,6 +55,7 @@ A list curating resources and information related to JBoss Middleware. The broad
 ## JBoss (Related) Blogs
 
 * [Geerd Schuring's Blog: Open Source Java Middleware](https://geertschuring.wordpress.com)
+* [Markus Eisele's Blog: "Java EE and general Java platforms. You'll read about Conferences, Java User Groups, Java EE, Integration, AS7, WildFly, EAP and other technologies."](http://blog.eisele.net)
 * [Dominik Wotruba's Twitter Account - Lots of interesting articles related to JBoss and Java middleware](https://twitter.com/wotruba)
 
 
