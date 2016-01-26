@@ -18,6 +18,8 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [WildFly](http://wildfly.org) - Formerly called JBoss Application Server, a name now reserved for the offering supported by Red Hat. Very lightweight Java EE (and JavaScript!) environment, scalable, extensible, normally technically a bit ahead of the JBoss AS
 
+[JBoss Fuse](http://www.jboss.org/products/fuse/overview/) - The integration component of the broader JBoss middleware stack. Built on Apache Camel, Apache MQ, Apache CXF and Apache Karaf (as well as integrating fabric8, see below), Fuse enables you do integration projects programatically.
+
 [KIE Group](http://www.kiegroup.org) - The umbrella project for things related to BPM, BAM, BRM and alike tools. Powerful enterprise stuff.
 
 [Drools (BRMS)](http://www.drools.org) - Business Rules engine *and* framework.
