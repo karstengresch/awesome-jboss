@@ -55,6 +55,7 @@ A list curating resources and information related to JBoss Middleware. The broad
 ## JBoss (Related) Blogs
 
 * [Geerd Schuring's Blog: Open Source Java Middleware](https://geertschuring.wordpress.com)
+* [Dominik Wotruba's Twitter Account - Lots of interesting articles related to JBoss and Java middleware](https://twitter.com/wotruba)
 
 
 ## Informational Resources (Like DZone)
@@ -65,6 +66,9 @@ A list curating resources and information related to JBoss Middleware. The broad
 Red Hat sponsored program - selected members of JBoss Developers that made huge contributions to the products/the community. NB: Only very few are associates of Red Hat.
 
 * [John Ament](https://twitter.com/JohnAment)
+
+
+
  
 
 
