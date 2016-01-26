@@ -50,7 +50,9 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [AeroGear](https://aerogear.org) - Libraries/server-side components helping you build a platform agnostic infrastructure for mobile applications. Currently supported: Android, iOS, JavaScript, Cordova, Windows. Modules: Push, Security, Sync.
 
-[apiman](http://www.apiman.io/) Allows applying runtime policy governance to APIs. Uses cases e.g.: service throttling, centralized security, billing and metrics.
+[apiman](http://www.apiman.io/) - Allows applying runtime policy governance to APIs. Uses cases e.g.: service throttling, centralized security, billing and metrics.
+
+[fabric8](http://fabric8.io) - Feature complete open source DevOps Platform, supports Docker, Kubernetes, OpenShift. This multi-multi-multi-module stack offers everything from base continuous delivery (incl. Chaos Monkey!) over management (incl. taiga.io! Gerrit! has metrics and is searchable) to communication (Slack!).
 
 
 ### Red Hat
