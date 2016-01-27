@@ -70,7 +70,7 @@ A list curating resources and information related to JBoss Middleware. The broad
 * [Markus Eisele's Blog: "Java EE and general Java platforms. You'll read about Conferences, Java User Groups, Java EE, Integration, AS7, WildFly, EAP and other technologies."](http://blog.eisele.net)
 * [Dominik Wotruba's Twitter Account - Lots of interesting articles related to JBoss and Java middleware](https://twitter.com/wotruba)
 * [Christina Lin's Blog](http://wei-meilin.blogspot.de/) - "Open Source Middleware , Integration Software" Found an excellent intro to Fuse there and many other great articles on Fuse and JBoss middleware.
-* [JBoss Asylum - Podcast!](http://asylum.libsyn.com)
+* [JBoss Asylum - Podcast!](http://asylum.libsyn.com) - A podcast for the JBoss community.
 
 
 ## Informational Resources (Like DZone)
