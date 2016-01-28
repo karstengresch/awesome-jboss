@@ -40,7 +40,7 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [LiveOak](http://liveoak.io) - Looks like a BaaS to me like [BaasBox](http://www.baasbox.com) or [Apache UserGrid](http://usergrid.apache.org). Not sure why/in which way it serves as a JBoss upstream project.
 
-[Nodyn](http://nodyn.io) - Framework allowing
+[Nodyn](http://nodyn.io) - Framework allowing running JavaScript 
 
 [WildFly Swarm](http://wildfly-swarm.io) - Allows putting services into a single deployable but still Java EE conformant jar. Perfect for microservices.
 
@@ -81,6 +81,10 @@ A list curating resources and information related to JBoss Middleware. The broad
 Red Hat sponsored program - selected members of JBoss Developers that made huge contributions to the products/the community. NB: Only very few are associates of Red Hat.
 
 * [John Ament](https://twitter.com/JohnAment)
+
+### Other JBoss Stars That Rock
+
+* [Bob Mc Whirter](https://github.com/bobmcwhirter) - Founder of [procejct:odd](http://projectodd.org), Twitter: [Armadillo Bob](https://twitter.com/bobmcwhirter)
 
 
 
