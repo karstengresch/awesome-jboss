@@ -1,6 +1,6 @@
 # Awesome JBoss
 
-A list curating resources and information related to JBoss Middleware. The broad range of products, upstream projects and people involved makes it difficult to structurize this information - stay tuned and be patient, later or later you'll get a nicely on stop JBoss resource here :)
+A list curating resources and information related to JBoss Middleware. The broad range of products, upstream projects and people involved makes it difficult to structurize this information - stay tuned and be patient, later (or later [or later {or later}]) you'll get a nicely structured information pool on JBoss resources here :)
 
 ## Official Sites
 
@@ -71,6 +71,7 @@ A list curating resources and information related to JBoss Middleware. The broad
 * [Dominik Wotruba's Twitter Account - Lots of interesting articles related to JBoss and Java middleware](https://twitter.com/wotruba)
 * [Christina Lin's Blog](http://wei-meilin.blogspot.de/) - "Open Source Middleware , Integration Software" Found an excellent intro to Fuse there and many other great articles on Fuse and JBoss middleware.
 * [JBoss Asylum - Podcast!](http://asylum.libsyn.com) - A podcast for the JBoss community.
+* [In Relation To](http://in.relation.to) - Blog on everything Hibernate. 
 
 
 ## Informational Resources (Like DZone)
