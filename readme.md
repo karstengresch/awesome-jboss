@@ -85,7 +85,7 @@ Red Hat sponsored program - selected members of JBoss Developers that made huge 
 * [Paris Apostolopoulos](https://about.me/javapapo)
 * [Adam Bien](http://www.adam-bien.com/roller/abien/) - Rather *the* Java EE hero. ([Twitter](https://twitter.com/AdamBien))
 * [Antonio Goncalves](http://antoniogoncalves.org)
-
+* [Geert Schuring](https://geertschuring.wordpress.com)  
 
 ### Other JBoss Stars That Rock
 
