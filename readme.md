@@ -86,6 +86,7 @@ Red Hat sponsored program - selected members of JBoss Developers that made huge 
 ### Other JBoss Stars That Rock
 
 * [Bob Mc Whirter](https://github.com/bobmcwhirter) - Founder of [procejct:odd](http://projectodd.org), Twitter: [Armadillo Bob](https://twitter.com/bobmcwhirter)
+* [Jason T. Greene](https://twitter.com/jtgreene) - WildFly lead.
 
 
 
