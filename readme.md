@@ -79,11 +79,13 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 ## People
 ### [JBoss Heroes](https://www.jboss.org/heroes/)
-Red Hat sponsored program - selected members of JBoss Developers that made huge contributions to the products/the community. NB: Only very few are associates of Red Hat.
+Red Hat sponsored program - selected members of JBoss Developers that made huge contributions to the products/the community. NB: Only very few are associates of Red Hat, many of them rather propagate Java EE in general, some Glassfish in special.
 
 * [John Ament](https://twitter.com/JohnAment)
 * [Paris Apostolopoulos](https://about.me/javapapo)
 * [Adam Bien](http://www.adam-bien.com/roller/abien/) - Rather *the* Java EE hero. ([Twitter](https://twitter.com/AdamBien))
+* [Antonio Goncalves](http://antoniogoncalves.org)
+
 
 ### Other JBoss Stars That Rock
 
