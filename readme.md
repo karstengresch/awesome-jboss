@@ -20,7 +20,7 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [HornetQ](http://hornetq.jboss.org/) - Fast and reliable messaging subsystem.
 
-[JBoss Fuse](http://www.jboss.org/products/fuse/overview/) - The integration component of the broader JBoss middleware stack. Built on Apache Camel, Apache MQ, Apache CXF and Apache Karaf (as well as integrating fabric8, see below), Fuse enables you do integration projects programatically.
+[JBoss Fuse](http://www.jboss.org/products/fuse/overview/) - The integration component of the broader JBoss middleware stack. Built on Apache Camel, Apache MQ, Apache CXF and Apache Karaf (as well as integrating fabric8, see below), Fuse enables you doing integration projects programatically.
 
 [KIE Group](http://www.kiegroup.org) - The umbrella project for things related to BPM, BAM, BRM and alike tools. Powerful enterprise stuff.
 
@@ -59,6 +59,11 @@ A list curating resources and information related to JBoss Middleware. The broad
 [fabric8](http://fabric8.io) - Feature complete open source DevOps Platform, supports Docker, Kubernetes, OpenShift. This multi-multi-multi-module stack offers everything from base continuous delivery (incl. Chaos Monkey!) over management (incl. taiga.io! Gerrit! has metrics and is searchable) to communication (Slack!). NB - fabric8 is also a component in the even bigger JBoss Fuse stack.
 
 [Errai](http://erraiframework.org) Based on GWT, Errai allows type safe web applications (HTML5) based on Java EE. Shared code between platform and server.
+
+* [JBoss Tools](http://tools.jboss.org) - Eclipse plugins for JBoss technology. Red Hat support under the name *JBoss Developer Studio*.
+
+ 
+
 
 
 ### Red Hat
