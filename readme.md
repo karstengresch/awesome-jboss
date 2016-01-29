@@ -82,11 +82,14 @@ A list curating resources and information related to JBoss Middleware. The broad
 Red Hat sponsored program - selected members of JBoss Developers that made huge contributions to the products/the community. NB: Only very few are associates of Red Hat.
 
 * [John Ament](https://twitter.com/JohnAment)
+* [Paris Apostolopoulos](https://about.me/javapapo)
+
 
 ### Other JBoss Stars That Rock
 
 * [Bob Mc Whirter](https://github.com/bobmcwhirter) - Founder of [procejct:odd](http://projectodd.org), Twitter: [Armadillo Bob](https://twitter.com/bobmcwhirter)
 * [Jason T. Greene](https://twitter.com/jtgreene) - WildFly lead.
+ 
 
 
 
