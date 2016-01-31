@@ -76,7 +76,8 @@ A list curating resources and information related to JBoss Middleware. The broad
 * [Dominik Wotruba's Twitter Account - Lots of interesting articles related to JBoss and Java middleware](https://twitter.com/wotruba)
 * [Christina Lin's Blog](http://wei-meilin.blogspot.de/) - "Open Source Middleware , Integration Software" Found an excellent intro to Fuse there and many other great articles on Fuse and JBoss middleware.
 * [JBoss Asylum - Podcast!](http://asylum.libsyn.com) - A podcast for the JBoss community.
-* [In Relation To](http://in.relation.to) - Blog on everything Hibernate. 
+* [In Relation To](http://in.relation.to) - Blog on everything Hibernate.
+* [Christian Posta's Blog](http://blog.christianposta.com) - "A blog about all things software, cloud, integration, messaging, and programming" - by a Red Hat Principal Middleware Architect who's also committer to Apache MQ and Apache Camel as well as fabric8 and furthermore a frequent speaker on Red Hat events (and others).  
 
 
 ## Informational Resources (Like DZone)
