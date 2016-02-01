@@ -13,6 +13,9 @@ A list curating resources and information related to JBoss Middleware. The broad
 * [Red Hat Developers: JBoss Enterprise Application Platform](http://developers.redhat.com/products/eap/overview/) 
 * [Red Hat Customer Discussions (needs manual filtering first)](https://access.redhat.com/discussions?keyword=&name=&product=All&category=All&tags=All)
 
+![image](images/rh_jboss_portfolio.png)
+
+
 ## Subprojects
 ### Community/Upstream
 
