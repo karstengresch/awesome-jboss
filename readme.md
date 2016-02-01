@@ -40,7 +40,7 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [JBoss Fuse](http://www.jboss.org/products/fuse/overview/) - The integration component of the broader JBoss middleware stack. Built on Apache Camel, Apache MQ, Apache CXF and Apache Karaf (as well as integrating fabric8, see below), Fuse enables you doing integration projects programatically.
 
-[HornetQ](http://hornetq.jboss.org/) - Fast and reliable messaging subsystem.
+[HornetQ](http://hornetq.jboss.org/) - (Outdated.). Fast and reliable messaging subsystem - got integrated with [Apache MQ Artemis](http://activemq.apache.org/artemis/). 
 
 
 **Automate**
