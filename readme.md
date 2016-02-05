@@ -83,9 +83,9 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [JBoss Fuse](http://www.redhat.com/en/technologies/jboss-middleware/fuse) - Bundles different upstream projects addressing integration (e.g. Apache Camel) to a complete integration suite.
 
-[JBoss A-MW](http://www.redhat.com/en/technologies/jboss-middleware/amq) - The supported messaging subsystem offering from Red Hat.
+[JBoss A-MQ](http://www.redhat.com/en/technologies/jboss-middleware/amq) - The supported messaging subsystem offering from Red Hat.
 
- 
+[]()  
 
 
 ## JBoss (Related) Blogs
