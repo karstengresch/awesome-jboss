@@ -97,6 +97,7 @@ A list curating resources and information related to JBoss Middleware. The broad
 * [Dominik Wotruba's Twitter Account - Lots of interesting articles related to JBoss and Java middleware](https://twitter.com/wotruba)
 * [Christina Lin's Blog](http://wei-meilin.blogspot.de/) - "Open Source Middleware , Integration Software" Found an excellent intro to Fuse there and many other great articles on Fuse and JBoss middleware.
 * [JBoss Asylum - Podcast!](http://asylum.libsyn.com) - A podcast for the JBoss community.
+* [Eric D. Schabell's Blog](http://www.schabell.org) - Eric is a JBoss Technology Evangelist with Red Hat an author of several books. This blog not only lists numerous JBoss related events all over the world, but has useful content in form of overviews, best practices and links to other resources.  
 * [In Relation To](http://in.relation.to) - Blog on everything Hibernate.
 * [Christian Posta's Blog](http://blog.christianposta.com) - "A blog about all things software, cloud, integration, messaging, and programming" - by a Red Hat Principal Middleware Architect who's also committer to Apache MQ and Apache Camel as well as fabric8 and furthermore a frequent speaker on Red Hat events (and others).  
 
@@ -118,14 +119,8 @@ Red Hat sponsored program - selected members of JBoss Developers that made huge 
 
 * [Bob Mc Whirter](https://github.com/bobmcwhirter) - Founder of [procejct:odd](http://projectodd.org), Twitter: [Armadillo Bob](https://twitter.com/bobmcwhirter)
 * [Jason T. Greene](https://twitter.com/jtgreene) - WildFly lead.
+* [Eric D. Schabell](http://www.schabell.org) - JBoss Technology Evangelist. 
  
-
-
-
- 
-
-
-
 
 ## Tutorials
 
