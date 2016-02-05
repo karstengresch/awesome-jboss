@@ -87,7 +87,7 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [JBoss Data Virtualization](http://www.redhat.com/en/technologies/jboss-middleware/data-virtualization) - Red Hat's complete offering around projects like Teiid.
 
-[]() 
+[JBoss Mobile Application Platform](http://www.redhat.com/en/technologies/mobile/application-platform) - A backend-as-a-service (BaaS) solution, based on Node.js. Offline sync, authentication, API management - all covered. Formerly known as Feedhenry.
 
 
 ## JBoss (Related) Blogs
