@@ -81,6 +81,10 @@ A list curating resources and information related to JBoss Middleware. The broad
 ### Red Hat
 [JBoss Enterprise Application Platform (EAP)](http://www.redhat.com/en/technologies/jboss-middleware/application-platform) - Basically the licensed and supported WildFly offering from Red Hat.
 
+[JBoss Fuse](http://www.redhat.com/en/technologies/jboss-middleware/fuse) - Bundles different upstream projects addressing integration (e.g. Apache Camel) to a complete integration suite.
+  
+
+
 ## JBoss (Related) Blogs
 
 * [Geerd Schuring's Blog: Open Source Java Middleware](https://geertschuring.wordpress.com)
