@@ -42,7 +42,9 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [Apache ActiveMQ](http://activemq.apache.org) - A popular JMS 1.1 implementation (in the beginning).
 
-[Apache Camel](http://camel.apache.org) - A routing and mediation engine for implementing most of the [enterprise integration patterns](http://www.eaipatterns.com/toc.html). DSLs for many languages as well as XML configuration for routing rules are available.  
+[Apache Camel](http://camel.apache.org) - A routing and mediation engine for implementing most of the [enterprise integration patterns](http://www.eaipatterns.com/toc.html). DSLs for many languages as well as XML configuration for routing rules are available.
+
+[Apache CXF](http://cxf.apache.org) - A service creation framework, supporting JAX-WS and JAX-RS. Multi-protocol (e.g. SOAP, XML/HTTP, RESTful HTTP, or CORBA) and multi-transport (e.g. HTTP, JMS or JBI).    
 
 [HornetQ](http://hornetq.jboss.org/) - (Outdated.). Fast and reliable messaging subsystem - got integrated with [Apache MQ Artemis](http://activemq.apache.org/artemis/) - which is considered becoming Apache ActiveMQ' successor version 6.x.
 
