@@ -97,6 +97,8 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [JBoss Mobile Application Platform](http://www.redhat.com/en/technologies/mobile/application-platform) - A backend-as-a-service (BaaS) solution, based on Node.js. Offline sync, authentication, API management - all covered. Formerly known as Feedhenry.
 
+[OpenShift](https://www.openshift.com) - Is a solution based on Docker, Kubernetes and other community projects that allows deploying JBoss applications to a PaaS by just committing code changes to e.g. GitHub.
+
 
 ## JBoss (Related) Blogs
 
