@@ -133,6 +133,7 @@ Red Hat sponsored program - selected members of JBoss Developers that made huge 
  
 
 ## Tutorials/Learning Resources
+* [JBoss Ticket Monster Tutorial (Red Hat)](http://www.jboss.org/ticket-monster/) - A medium complex application deployed on JBoss EAP. Leads you through the entire stack incl. HTML5 and mobile frontends (Apache Cordova) and deployment to OpenShift. 
 * [JBoss EAP Quickstarts (GitHub)](https://github.com/jboss-developer/jboss-eap-quickstarts) - Many deployable and inspectable projects allow you to learn from code.	
 
 
