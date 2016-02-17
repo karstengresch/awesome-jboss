@@ -130,23 +130,31 @@ A list curating resources and information related to JBoss Middleware. The broad
 ### [JBoss Heroes](https://www.jboss.org/heroes/)
 Red Hat sponsored program - selected members of JBoss Developers that made huge contributions to the products/the community. NB: Only very few are associates of Red Hat, many of them rather propagate Java EE in general, some Glassfish in special.
 
-* [John Ament](https://twitter.com/JohnAment)
-* [Paris Apostolopoulos](https://about.me/javapapo)
-* [Adam Bien](http://www.adam-bien.com/roller/abien/) - Rather *the* Java EE hero. ([Twitter](https://twitter.com/AdamBien))
-* [Antonio Goncalves](http://antoniogoncalves.org)
-* [Geert Schuring](https://geertschuring.wordpress.com)  
+[John Ament](https://twitter.com/JohnAment)
+
+[Paris Apostolopoulos](https://about.me/javapapo)
+
+[Adam Bien](http://www.adam-bien.com/roller/abien/) - Rather *the* Java EE hero. ([Twitter](https://twitter.com/AdamBien))
+
+[Antonio Goncalves](http://antoniogoncalves.org)
+
+[Geert Schuring](https://geertschuring.wordpress.com)  
 
 ### Other JBoss Stars That Rock
 
-* [Bob Mc Whirter](https://github.com/bobmcwhirter) - Founder of [procejct:odd](http://projectodd.org), Twitter: [Armadillo Bob](https://twitter.com/bobmcwhirter)
-* [Jason T. Greene](https://twitter.com/jtgreene) - WildFly lead.
-* [Eric D. Schabell](http://www.schabell.org) - JBoss Technology Evangelist. 
+[Bob Mc Whirter](https://github.com/bobmcwhirter) - Founder of [procejct:odd](http://projectodd.org), Twitter: [Armadillo Bob](https://twitter.com/bobmcwhirter)
+
+[Jason T. Greene](https://twitter.com/jtgreene) - WildFly lead.
+
+[Eric D. Schabell](http://www.schabell.org) - JBoss Technology Evangelist. 
  
 
 ## Tutorials/Learning Resources
-* [Master the Boss (? not clear if it should be a one-word-name)](http://mastertheboss.com) - Lots of smaller, easy-to-follow tutorials covering nearly every component of the entire stack.
-* [JBoss Ticket Monster Tutorial (Red Hat)](http://www.jboss.org/ticket-monster/) - A medium complex application deployed on JBoss EAP. Leads you through the entire stack incl. HTML5 and mobile frontends (Apache Cordova) and deployment to OpenShift. With videos!
-* [JBoss EAP Quickstarts (GitHub)](https://github.com/jboss-developer/jboss-eap-quickstarts) - Many deployable and inspectable projects allow you to learn from code.	
+[Master the Boss (? not clear if it should be a one-word-name)](http://mastertheboss.com) - Lots of smaller, easy-to-follow tutorials covering nearly every component of the entire stack.
+
+[JBoss Ticket Monster Tutorial (Red Hat)](http://www.jboss.org/ticket-monster/) - A medium complex application deployed on JBoss EAP. Leads you through the entire stack incl. HTML5 and mobile frontends (Apache Cordova) and deployment to OpenShift. With videos!
+
+[JBoss EAP Quickstarts (GitHub)](https://github.com/jboss-developer/jboss-eap-quickstarts) - Many deployable and inspectable projects allow you to learn from code.	
 
 
 ## Books
