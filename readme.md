@@ -35,9 +35,9 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [JBoss Tools](http://tools.jboss.org) - Eclipse plugins for JBoss technology. Red Hat support under the name *JBoss Developer Studio*.
 
-* [Undertow](http://undertow.io) - is "is a flexible performant web server written in java, providing both blocking and non-blocking API’s based on NIO". Also the standard webserver in Wildfly.
+[Undertow](http://undertow.io) - is "is a flexible performant web server written in java, providing both blocking and non-blocking API’s based on NIO". Also the standard webserver in Wildfly.
  
-
+[Nodyn](http://nodyn.io) - Framework allowing running server side JavaScript - bit like a JVM version of Node.js. 
 
 **Integrate**
 
@@ -53,6 +53,8 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [HornetQ](http://hornetq.jboss.org/) - (Outdated.). Fast and reliable messaging subsystem - got integrated with [Apache MQ Artemis](http://activemq.apache.org/artemis/) - which is considered becoming Apache ActiveMQ' successor version 6.x.
 
+[ModeShape](http://modeshape.jboss.org) - Distributed, hierarchical, transactional, and consistent data store. Doesn't get the audience it deserves IMHO.
+
 
 **Automate**
 
@@ -67,13 +69,12 @@ A list curating resources and information related to JBoss Middleware. The broad
 ===
 (not yet mapped)
 
-[ModeShape](http://modeshape.jboss.org) - Distributed, hierarchical, transactional, and consistent data store. Doesn't get the audience it deserves IMHO.
 
 [Narayana](http://narayana.io) - Transaction manager, even spans across C++ and Java.
 
 [LiveOak](http://liveoak.io) - Looks like a BaaS to me like [BaasBox](http://www.baasbox.com) or [Apache UserGrid](http://usergrid.apache.org). Not sure why/in which way it serves as a JBoss upstream project.
 
-[Nodyn](http://nodyn.io) - Framework allowing running server side JavaScript - bit like a JVM version of Node.js. 
+
 
 [Keycloak](http://keycloak.jboss.org) - SSO solution (including social auth). Out-of-the box screens, zero-coding setups, session administration etc. Like OpenSSO on steroids. Deployable to an app server, as black box appliance or to OpenShift cartridge/as OpenShift service. Includes the former [PicketLink](http://www.picketlink.org) project. 
 
@@ -105,14 +106,21 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 ## JBoss (Related) Blogs
 
-* [Geerd Schuring's Blog: Open Source Java Middleware](https://geertschuring.wordpress.com)
-* [Markus Eisele's Blog: "Java EE and general Java platforms. You'll read about Conferences, Java User Groups, Java EE, Integration, AS7, WildFly, EAP and other technologies."](http://blog.eisele.net)
-* [Dominik Wotruba's Twitter Account - Lots of interesting articles related to JBoss and Java middleware](https://twitter.com/wotruba)
-* [Christina Lin's Blog](http://wei-meilin.blogspot.de/) - "Open Source Middleware , Integration Software" Found an excellent intro to Fuse there and many other great articles on Fuse and JBoss middleware.
-* [JBoss Asylum - Podcast!](http://asylum.libsyn.com) - A podcast for the JBoss community.
-* [Eric D. Schabell's Blog](http://www.schabell.org) - Eric is a JBoss Technology Evangelist with Red Hat an author of several books. This blog not only lists numerous JBoss related events all over the world, but has useful content in form of overviews, best practices and links to other resources.  
-* [In Relation To](http://in.relation.to) - Blog on everything Hibernate.
-* [Christian Posta's Blog](http://blog.christianposta.com) - "A blog about all things software, cloud, integration, messaging, and programming" - by a Red Hat Principal Middleware Architect who's also committer to Apache MQ and Apache Camel as well as fabric8 and furthermore a frequent speaker on Red Hat events (and others).  
+[Geerd Schuring's Blog: Open Source Java Middleware](https://geertschuring.wordpress.com)
+
+[Markus Eisele's Blog: "Java EE and general Java platforms. You'll read about Conferences, Java User Groups, Java EE, Integration, AS7, WildFly, EAP and other technologies."](http://blog.eisele.net)
+
+[Dominik Wotruba's Twitter Account - Lots of interesting articles related to JBoss and Java middleware](https://twitter.com/wotruba)
+
+[Christina Lin's Blog](http://wei-meilin.blogspot.de/) - "Open Source Middleware , Integration Software" Found an excellent intro to Fuse there and many other great articles on Fuse and JBoss middleware.
+
+[JBoss Asylum - Podcast!](http://asylum.libsyn.com) - A podcast for the JBoss community.
+
+[Eric D. Schabell's Blog](http://www.schabell.org) - Eric is a JBoss Technology Evangelist with Red Hat an author of several books. This blog not only lists numerous JBoss related events all over the world, but has useful content in form of overviews, best practices and links to other resources.  
+
+[In Relation To](http://in.relation.to) - Blog on everything Hibernate.
+
+[Christian Posta's Blog](http://blog.christianposta.com) - "A blog about all things software, cloud, integration, messaging, and programming" - by a Red Hat Principal Middleware Architect who's also committer to Apache MQ and Apache Camel as well as fabric8 and furthermore a frequent speaker on Red Hat events (and others).  
 
 
 ## Informational Resources (Like DZone)
