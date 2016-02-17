@@ -35,6 +35,9 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [JBoss Tools](http://tools.jboss.org) - Eclipse plugins for JBoss technology. Red Hat support under the name *JBoss Developer Studio*.
 
+* [Undertow](http://undertow.io) - is "is a flexible performant web server written in java, providing both blocking and non-blocking API’s based on NIO". Also the standard webserver in Wildfly.
+ 
+
 
 **Integrate**
 
