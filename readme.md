@@ -156,7 +156,9 @@ Red Hat sponsored program - selected members of JBoss Developers that made huge 
 
 [JBoss Ticket Monster Tutorial (Red Hat)](http://www.jboss.org/ticket-monster/) - A medium complex application deployed on JBoss EAP. Leads you through the entire stack incl. HTML5 and mobile frontends (Apache Cordova) and deployment to OpenShift. With videos!
 
-[JBoss EAP Quickstarts (GitHub)](https://github.com/jboss-developer/jboss-eap-quickstarts) - Many deployable and inspectable projects allow you to learn from code.	
+[JBoss EAP Quickstarts (GitHub)](https://github.com/jboss-developer/jboss-eap-quickstarts) - Many deployable and inspectable projects allow you to learn from code.
+
+[Fuse by Example (GitHub)](https://github.com/FuseByExample) - Different ready-to-inspect example projects covering a different Fuse aspects.	
 
 
 ## Books
