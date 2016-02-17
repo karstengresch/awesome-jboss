@@ -25,7 +25,7 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [WildFly](http://wildfly.org) - Formerly called JBoss Application Server, a name now reserved for the offering supported by Red Hat. Very lightweight Java EE (and JavaScript!) environment, scalable, extensible, normally technically a bit ahead of the JBoss AS
 
-[WildFly Swarm](http://wildfly-swarm.io) - Allows putting services into a single deployable but still Java EE conformant jar. Perfect for microservices.
+[WildFly Swarm](http://wildfly-swarm.io) - Allows putting services into a single deployable but still Java EE conformant jar. Perfect for microservices. Think of Spring Boot in the JBoss world-
 
 [Arquillian](http://arquillian.org) - Server side testing done right.
 
@@ -151,6 +151,8 @@ Red Hat sponsored program - selected members of JBoss Developers that made huge 
 
 ## Tutorials/Learning Resources
 [Master the Boss (? not clear if it should be a one-word-name)](http://mastertheboss.com) - Lots of smaller, easy-to-follow tutorials covering nearly every component of the entire stack.
+
+[Master the Integration](http://www.mastertheintegration.com) - Same as "Master the Boss", but for Fuse/Camel related topics.	
 
 [JBoss Ticket Monster Tutorial (Red Hat)](http://www.jboss.org/ticket-monster/) - A medium complex application deployed on JBoss EAP. Leads you through the entire stack incl. HTML5 and mobile frontends (Apache Cordova) and deployment to OpenShift. With videos!
 
