@@ -132,7 +132,8 @@ Red Hat sponsored program - selected members of JBoss Developers that made huge 
 * [Eric D. Schabell](http://www.schabell.org) - JBoss Technology Evangelist. 
  
 
-## Tutorials
+## Tutorials/Learning Resources
+* [JBoss EAP Quickstarts (GitHub)](https://github.com/jboss-developer/jboss-eap-quickstarts) - Many deployable and inspectable projects allow you to learn from code.	
 
 
 ## Books
