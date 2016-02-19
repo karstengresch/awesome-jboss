@@ -118,7 +118,9 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [In Relation To](http://in.relation.to) - Blog on everything Hibernate.
 
-[Christian Posta's Blog](http://blog.christianposta.com) - "A blog about all things software, cloud, integration, messaging, and programming" - by a Red Hat Principal Middleware Architect who's also committer to Apache MQ and Apache Camel as well as fabric8 and furthermore a frequent speaker on Red Hat events (and others).  
+[Christian Posta's Blog](http://blog.christianposta.com) - "A blog about all things software, cloud, integration, messaging, and programming" - by a Red Hat Principal Middleware Architect who's also committer to Apache MQ and Apache Camel as well as fabric8 and furthermore a frequent speaker on Red Hat events (and others).
+
+[Kris Verlaenen on Processes, Rules and Events](http://kverlaen.blogspot.de/) - Kris is a Senior Software Engineer at Red Hat and committer to jBPM (open source project) as well as Drools. His blog is about all process and rules related stuff.
 
 
 ## Informational Resources (Like DZone)
