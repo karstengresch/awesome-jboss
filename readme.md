@@ -120,7 +120,7 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [Christian Posta's Blog](http://blog.christianposta.com) - "A blog about all things software, cloud, integration, messaging, and programming" - by a Red Hat Principal Middleware Architect who's also committer to Apache MQ and Apache Camel as well as fabric8 and furthermore a frequent speaker on Red Hat events (and others).
 
-[Kris Verlaenen on Processes, Rules and Events](http://kverlaen.blogspot.de/) - Kris is a Senior Software Engineer at Red Hat and committer to jBPM (open source project) as well as Drools. His blog is about all process and rules related stuff.
+[Kris Verlaenen on Processes, Rules and Events](http://kverlaen.blogspot.de/) - Kris is a Senior Software Engineer at Red Hat and the jBPM (open source project) project lead as well a Drools committer. His blog is about all process and rules related stuff.
 
 
 ## Informational Resources (Like DZone)
@@ -147,6 +147,8 @@ Red Hat sponsored program - selected members of JBoss Developers that made huge 
 [Jason T. Greene](https://twitter.com/jtgreene) - WildFly lead.
 
 [Eric D. Schabell](http://www.schabell.org) - JBoss Technology Evangelist. 
+
+[Kris Verlaenen](https://plus.google.com/+KrisVerlaenen/about) - jBPM project lead, Red Hat Senior Software Engineer, Drools comitter. 
  
 
 ## Tutorials/Learning Resources
