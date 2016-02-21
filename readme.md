@@ -160,7 +160,9 @@ Red Hat sponsored program - selected members of JBoss Developers that made huge 
 
 [JBoss EAP Quickstarts (GitHub)](https://github.com/jboss-developer/jboss-eap-quickstarts) - Many deployable and inspectable projects allow you to learn from code.
 
-[Fuse by Example (GitHub)](https://github.com/FuseByExample) - Different ready-to-inspect example projects covering a different Fuse aspects.	
+[Fuse by Example (GitHub)](https://github.com/FuseByExample) - Different ready-to-inspect example projects covering a different Fuse aspects. 
+
+[JBoss Demo Central](https://github.com/jbossdemocentral) - GitHub repository containing lots of examples for BPMS (jBPM) and BRMS (Drools).
 
 
 ## Books
