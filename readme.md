@@ -122,6 +122,8 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [Kris Verlaenen on Processes, Rules and Events](http://kverlaen.blogspot.de/) - Kris is a Senior Software Engineer at Red Hat and the jBPM (open source project) project lead as well a Drools committer. His blog is about all process and rules related stuff.
 
+[Maciej Swiderski on jBPM: "Accelerate your business"](http://mswiderski.blogspot.de) - Maciej is a core jBPM developer and gives insights on his blog - tips and tricks and new/upcoming jBPM features explained.
+
 
 ## Informational Resources (Like DZone)
 
@@ -149,6 +151,8 @@ Red Hat sponsored program - selected members of JBoss Developers that made huge 
 [Eric D. Schabell](http://www.schabell.org) - JBoss Technology Evangelist. 
 
 [Kris Verlaenen](https://plus.google.com/+KrisVerlaenen/about) - jBPM project lead, Red Hat Senior Software Engineer, Drools comitter. 
+
+[Maciej Swiderski](https://pl.linkedin.com/in/swiderskimaciej) - Maciej is a core jBPM developer, see his blog above.
  
 
 ## Tutorials/Learning Resources
