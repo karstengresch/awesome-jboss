@@ -101,6 +101,7 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [OpenShift](https://www.openshift.com) - Is a solution based on Docker, Kubernetes and other community projects that allows deploying JBoss applications to a PaaS by just committing code changes to e.g. GitHub.
 
+[GateIn Portal](http://gatein.jboss.org) - The Opensource Website Framework, gives you more than a web framework by letting you use your preferred one.
 
 ## JBoss (Related) Blogs
 
