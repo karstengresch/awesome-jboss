@@ -88,6 +88,8 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [Errai](http://erraiframework.org) Based on GWT, Errai allows type safe web applications (HTML5) based on Java EE. Shared code between platform and server.
 
+[Jolokia](https://jolokia.org) - HTTP/JSON bridge for remote JMX access. Built into Fuse and WildFly.
+
 ### Red Hat
 [JBoss Enterprise Application Platform (EAP)](http://www.redhat.com/en/technologies/jboss-middleware/application-platform) - Basically the licensed and supported WildFly offering from Red Hat.
 
