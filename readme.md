@@ -23,7 +23,7 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 **Accelerate**
 
-[WildFly](http://wildfly.org) - Formerly called JBoss Application Server. JBoss is now reserved for the offerings supported by Red Hat. Very lightweight Java EE (and JavaScript!) environment, scalable, extensible.
+[WildFly](http://wildfly.org) - Formerly called JBoss Application Server. JBoss is reserved for the offerings supported by Red Hat. Very lightweight Java EE (and JavaScript!) environment, scalable, extensible.
 
 [WildFly Swarm](http://wildfly-swarm.io) - Allows putting services into a single deployable but still Java EE conformant jar. Perfect for microservices. Think of Spring Boot in the JBoss world.
 
@@ -103,6 +103,7 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [OpenShift](https://www.openshift.com) - Is a solution based on Docker, Kubernetes and other community projects that allows deploying JBoss applications to a PaaS by just committing code changes to e.g. GitHub.
 
+[GateIn Portal](http://gatein.jboss.org) - The Opensource Website Framework, gives you more than a web framework by letting you use your preferred one.
 
 ## JBoss (Related) Blogs
 
