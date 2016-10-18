@@ -92,6 +92,8 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [Iron Jacamar](http://www.ironjacamar.org) - SCA 1.7 implementation. Used in WildFly.
 
+[Project Rainmaker](http://rainmaker.io) - Mobile workforce management for the mobile backend as a service FeedHemry/Red Hat Mobile Platform. 
+
 
 ### Red Hat
 [JBoss Enterprise Application Platform (EAP)](http://www.redhat.com/en/technologies/jboss-middleware/application-platform) - Basically the licensed and supported WildFly offering from Red Hat.
