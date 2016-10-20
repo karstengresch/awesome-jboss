@@ -92,7 +92,7 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [Iron Jacamar](http://www.ironjacamar.org) - SCA 1.7 implementation. Used in WildFly.
 
-[Project Raincatcher](https://github.com/feedhenry-raincatcher) - Mobile workforce management for the mobile backend as a service FeedHenry/Red Hat Mobile Platform. Also an useful approach for getting started with implementing workflows based on Node.js.
+[Project Raincatcher](https://github.com/feedhenry-raincatcher) - Mobile workforce management for FeedHenry/Red Hat Mobile Platform (see below). Also an useful approach for getting started with implementing workflows based on Node.js.
 
 
 ### Red Hat
