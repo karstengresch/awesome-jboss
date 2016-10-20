@@ -94,6 +94,8 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [Project Raincatcher](https://github.com/feedhenry-raincatcher) - Mobile workforce management for FeedHenry/Red Hat Mobile Platform (see below). Also an useful approach for getting started with implementing workflows based on Node.js.
 
+[FeedHenry](http://feedhenry.org/) - A mobile backend-as-a-service solution. Implemented in Node.js, fully-fledged with API management, web based screen development, monitoring, security, push notifications. It's definitely worth a try and unfortunately a bit overseen especially in the iOS community.
+
 
 ### Red Hat
 [JBoss Enterprise Application Platform (EAP)](http://www.redhat.com/en/technologies/jboss-middleware/application-platform) - Basically the licensed and supported WildFly offering from Red Hat.
