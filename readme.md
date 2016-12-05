@@ -83,7 +83,7 @@ Core services are enterprose components offered by Red Hat to any middleware pro
 
 [AeroGear](https://aerogear.org) - Libraries/server-side components helping you build a platform agnostic infrastructure for mobile applications. Currently supported: Android, iOS, JavaScript, Cordova, Windows. Modules: Push, Security, Sync.
 
-[Keycloak](http://keycloak.jboss.org) - SSO solution (including social auth). Out-of-the box screens, zero-coding setups, session administration etc. Like OpenSSO on steroids. Deployable to an app server, as black box appliance or to OpenShift cartridge/as OpenShift service. Includes the former [PicketLink](http://www.picketlink.org) project. 
+[Keycloak](http://keycloak.jboss.org) - SSO solution (including social auth). Out-of-the box screens, zero-coding setups, session administration etc. Like OpenSSO on steroids. Deployable to an app server, as black box appliance or to OpenShift as a container. Includes the former [PicketLink](http://www.picketlink.org) project. (Enterprise product: Red Hat SSO, part of core services, see above).
 
 [Hawkular](http://www.hawkular.org) - Feature full monitoring and management platform.
 
