@@ -57,7 +57,7 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [ModeShape](http://modeshape.jboss.org) - Distributed, hierarchical, transactional, and consistent data store. Doesn't get the audience it deserves IMHO.
 
-[Debezium](http://debezium.io) - 
+[Debezium](http://debezium.io) - Database event streaming. Allows creating reactive/event sourced applications. Extremely useful for monolith decoupling.
 
 
 **Automate**
