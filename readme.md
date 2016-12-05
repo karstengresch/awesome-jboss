@@ -70,6 +70,9 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 [Opta Planner](http://www.optaplanner.org) - Constraint satisfaction solver. I.e. a planning engine for the enterprise.
 
+**Core Services**
+Core services are enterprose components offered by Red Hat to any middleware product subscriber for free.
+
 ===
 (not yet mapped)
 
