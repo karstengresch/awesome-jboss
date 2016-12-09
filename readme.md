@@ -29,6 +29,7 @@ Very lightweight Java EE (and JavaScript!) environment, scalable, extensible.
 
 [WildFly Swarm](http://wildfly-swarm.io) - Allows putting services into a single deployable, but still Java EE conformant jar. Perfect for microservices.
 
+[microprofile.io](http://microprofile.io)
 
 [Arquillian](http://arquillian.org) - Server side testing done right.
 
