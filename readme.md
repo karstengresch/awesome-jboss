@@ -63,6 +63,8 @@ Very lightweight Java EE (and JavaScript!) environment, scalable, extensible.
 
 [Debezium](http://debezium.io) - Database event streaming. Allows creating reactive/event sourced applications. Extremely useful for monolith decoupling.
 
+[Apache Tomcat](http://tomcat.apache.org)
+
 
 **Automate**
 
