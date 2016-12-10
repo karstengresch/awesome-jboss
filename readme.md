@@ -79,6 +79,8 @@ Very lightweight Java EE (and JavaScript!) environment, scalable, extensible.
 **Core Services**
 Core services are enterprose components offered by Red Hat to any middleware product subscriber for free.
 
+[Keycloak](http://keycloak.jboss.org) - SSO solution (including social auth). Out-of-the box screens, zero-coding setups, session administration etc. Like OpenSSO on steroids. Deployable to an app server, as black box appliance or to OpenShift as a container. Includes the former [PicketLink](http://www.picketlink.org) project. (Enterprise product: Red Hat SSO, part of core services, see above).
+
 ===
 (not yet mapped)
 
@@ -88,8 +90,6 @@ Core services are enterprose components offered by Red Hat to any middleware pro
 [LiveOak](http://liveoak.io) - Looks like a BaaS to me like [BaasBox](http://www.baasbox.com) or [Apache UserGrid](http://usergrid.apache.org). Not sure why/in which way it serves as a JBoss upstream project.
 
 [AeroGear](https://aerogear.org) - Libraries/server-side components helping you build a platform agnostic infrastructure for mobile applications. Currently supported: Android, iOS, JavaScript, Cordova, Windows. Modules: Push, Security, Sync.
-
-[Keycloak](http://keycloak.jboss.org) - SSO solution (including social auth). Out-of-the box screens, zero-coding setups, session administration etc. Like OpenSSO on steroids. Deployable to an app server, as black box appliance or to OpenShift as a container. Includes the former [PicketLink](http://www.picketlink.org) project. (Enterprise product: Red Hat SSO, part of core services, see above).
 
 [Hawkular](http://www.hawkular.org) - Feature full monitoring and management platform.
 
