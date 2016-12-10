@@ -198,6 +198,7 @@ Red Hat sponsored program - selected members of JBoss Developers that made huge 
 
 
 ## Books
+TBD - at least all JBoss related from Mannimg, Packt, Apress, O'Reilly
 
 
 ## Supporting/Related Software
