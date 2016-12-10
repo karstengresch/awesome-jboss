@@ -111,6 +111,8 @@ Core services are enterprose components offered by Red Hat to any middleware pro
 
 [GateIn Portal](http://gatein.jboss.org) - The Opensource Website Framework, gives you more than a web framework by letting you use your preferred one.
 
+[Patternfly](http://www.patternfly.org) - Is a collection of guides, UI templates and UX patterns for creating UIs for the enterprise. More and more used in JBoss projects.
+
 
 ### Red Hat
 [JBoss Enterprise Application Platform (EAP)](http://www.redhat.com/en/technologies/jboss-middleware/application-platform) - Basically the licensed and supported WildFly offering from Red Hat.
