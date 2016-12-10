@@ -109,6 +109,8 @@ Core services are enterprose components offered by Red Hat to any middleware pro
 
 [JBoss Forge](forge.jboss.org) - Scaffolding framework - Allows you creating an entire Java EE app by just providing entity and comfigrational imformation, either at the command line or in JBoss Developer Studio. Reminds me of the discontinued (?) Spring Roo.
 
+[GateIn Portal](http://gatein.jboss.org) - The Opensource Website Framework, gives you more than a web framework by letting you use your preferred one.
+
 
 ### Red Hat
 [JBoss Enterprise Application Platform (EAP)](http://www.redhat.com/en/technologies/jboss-middleware/application-platform) - Basically the licensed and supported WildFly offering from Red Hat.
@@ -123,7 +125,6 @@ Core services are enterprose components offered by Red Hat to any middleware pro
 
 [OpenShift](https://www.openshift.com) - Is a solution based on Docker, Kubernetes and other community projects that allows deploying JBoss applications (and others) to a PaaS by just committing code changes to e.g. GitHub.
 
-[GateIn Portal](http://gatein.jboss.org) - The Opensource Website Framework, gives you more than a web framework by letting you use your preferred one.
 
 ## JBoss (Related) Blogs
 
