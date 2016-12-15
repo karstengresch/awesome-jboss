@@ -29,7 +29,7 @@ Very lightweight Java EE (and JavaScript!) environment, scalable, extensible.
 
 [WildFly Swarm](http://wildfly-swarm.io) - Allows putting services into a single deployable, but still Java EE conformant jar. Perfect for microservices.
 
-[microprofile.io](http://microprofile.io) - Like Spring boot - allows specifying the Java (EE) components you need for an application and creates a self-running "fat jar" out of it.
+[WildFly Swarm Generator](http://wildfly-swarm.io/generator/) - Like Spring boot - allows specifying the Java (EE) components you need for an application and creates a self-running "fat jar" out of it.
 
 [Arquillian](http://arquillian.org) - Server side testing done right.
 
