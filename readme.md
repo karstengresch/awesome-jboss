@@ -22,7 +22,7 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 (Mapping the community projects to Red Hat's structure from above...)
 
-**Foundation**
+**Foundation (aka Accelerate)
 
 [WildFly](http://wildfly.org) - Formerly called JBoss Application Server (JBoss AS), but JBoss is now reserved for the offerings supported by Red Hat and the product's name is now JBoss Enterprise Application server (JBoss EAP).
 Very lightweight Java EE (and JavaScript!) environment, scalable, extensible.
