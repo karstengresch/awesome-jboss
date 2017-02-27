@@ -82,8 +82,10 @@ Very lightweight Java EE (and JavaScript!) environment, scalable, extensible.
 
 [Opta Planner](http://www.optaplanner.org) - Constraint satisfaction solver. I.e. a planning engine for the enterprise.
 
+
 **Core Services**
-Core services are enterprose components offered by Red Hat to any middleware product subscriber for free.
+
+Core services are enterprise components offered by Red Hat to any middleware product subscriber for free - except of Red Hat JBoss Enterprise Web Server which does not come with Core Services support.
 
 [Keycloak](http://keycloak.jboss.org) - SSO solution (including social auth). Out-of-the box screens, zero-coding setups, session administration etc. Like OpenSSO on steroids. Deployable to an app server, as black box appliance or to OpenShift as a container. Includes the former [PicketLink](http://www.picketlink.org) project. (Enterprise product: Red Hat SSO, part of core services, see above). Support enabled product name is ~Red Hat SSO~.
 
