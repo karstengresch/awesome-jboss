@@ -27,6 +27,8 @@ A list curating resources and information related to JBoss Middleware. The broad
 [WildFly](http://wildfly.org) - Formerly called JBoss Application Server (JBoss AS), but JBoss is now reserved for the offerings supported by Red Hat and the product's name is now JBoss Enterprise Application server (JBoss EAP).
 Very lightweight Java EE (and JavaScript!) environment, scalable, extensible.
 
+[Apache Tomcat](http://tomcat.apache.org) - The versatile Servlet Engine is available with support by Red Hat as JBoss Enterprise Web Server. (JBoss EWS). B.t.w. - Red Hat JBoss EWS + Hibernate Support == EWS Pro.
+
 [WildFly Swarm](http://wildfly-swarm.io) - Allows putting services into a single deployable, but still Java EE conformant jar. Perfect for microservices.
 
 [WildFly Swarm Generator](http://wildfly-swarm.io/generator/) - Like Spring boot - allows specifying the Java (EE) components you need for an application and creates a self-running "fat jar" out of it.
