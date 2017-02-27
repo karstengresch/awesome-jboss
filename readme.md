@@ -43,6 +43,8 @@ Very lightweight Java EE (and JavaScript!) environment, scalable, extensible.
  
 [Nodyn](http://nodyn.io) - Framework allowing running server side JavaScript - bit like a JVM version of Node.js. 
 
+[Immutant](http://immutant.org) - Clojure libraries to make JBoss work in the clojure world. Includes Infinispan, Undertow and other integrations.
+
 **Integrate**
 
 [JBoss Fuse](http://www.jboss.org/products/fuse/overview/) - The integration component of the broader JBoss middleware stack. Built on Apache Camel, Apache ActiveMQ, Apache CXF and Apache Karaf (as well as integrating fabric8, see all below), Fuse enables you doing integration projects programatically.
@@ -62,8 +64,6 @@ Very lightweight Java EE (and JavaScript!) environment, scalable, extensible.
 [ModeShape](http://modeshape.jboss.org) - Distributed, hierarchical, transactional, and consistent data store. Doesn't get the audience it deserves IMHO.
 
 [Debezium](http://debezium.io) - Database event streaming. Allows creating reactive/event sourced applications. Extremely useful for monolith decoupling.
-
-[Apache Tomcat](http://tomcat.apache.org) - The versatile Servlet Engine is available with support by Red Hat as JBoss Enterprise Web Server. (JBoss EWS).
 
 
 **Automate**
