@@ -18,13 +18,17 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 
 ## Subprojects
-### Community/Upstream
+### Red Hat <-> Community (aka Upstream)
 
-(Mapping the community projects to Red Hat's structure from above...)
+Red Hat's general categories from above (Accelerate-Integrate-Automate) is here mapped to the various upstream projects and the main projects have mentioned the commercial offering from Red Hat. 
+
+Example: Upstream project is WildFly, commercial project is Accelerate->Red Hat JBoss EAP.
+
+Be aware that many projects appear in all categories (e.g. general-purpose libraries). The approach here is avoiding redundancies and mention appearances in other categories where the project first appears.
 
 **Foundation (aka Accelerate)**
 
-[WildFly](http://wildfly.org) - Formerly called JBoss Application Server (JBoss AS), but JBoss is now reserved for the offerings supported by Red Hat and the product's name is now JBoss Enterprise Application server (JBoss EAP).
+[WildFly](http://wildfly.org) - Formerly called JBoss Application Server (JBoss AS), but JBoss is now reserved for the offerings supported by Red Hat and the product's name is now Red Hat JBoss Enterprise Application Server (aka EAP).
 Very lightweight Java EE (and JavaScript!) environment, scalable, extensible.
 
 [Apache Tomcat](http://tomcat.apache.org) - The versatile Servlet Engine is available with support by Red Hat as JBoss Enterprise Web Server. (JBoss EWS). B.t.w. - Red Hat JBoss EWS + Hibernate Support == EWS Pro.
