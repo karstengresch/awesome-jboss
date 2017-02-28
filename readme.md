@@ -22,18 +22,18 @@ A list curating resources and information related to JBoss Middleware. The broad
 
 Red Hat's general categories from above (Accelerate-Integrate-Automate) is here mapped to the various upstream projects and the main projects have mentioned the commercial offering from Red Hat. 
 
-Example: Upstream project is WildFly, commercial project is Accelerate->Red Hat JBoss EAP.
+Example: Upstream project is WildFly, commercial project is Accelerate/Red Hat JBoss EAP.
 
 Be aware that many projects appear in all categories (e.g. general-purpose libraries). The approach here is avoiding redundancies and mention appearances in other categories where the project first appears.
 
 **Foundation (aka Accelerate)**
 
 [WildFly](http://wildfly.org) - Formerly called JBoss Application Server (JBoss AS), but JBoss is now reserved for the offerings supported by Red Hat and the product's name is now Red Hat JBoss Enterprise Application Server (aka EAP).
-Very lightweight Java EE (and JavaScript!) environment, scalable, extensible.
+Very lightweight Java EE (and JavaScript!) environment, scalable, extensible. Unzip - run. It's that easy.
 
 [Apache Tomcat](http://tomcat.apache.org) - The versatile Servlet Engine is available with support by Red Hat as JBoss Enterprise Web Server. (JBoss EWS). B.t.w. - Red Hat JBoss EWS + Hibernate Support == EWS Pro.
 
-[WildFly Swarm](http://wildfly-swarm.io) - Allows putting services into a single deployable, but still Java EE conformant jar. Perfect for microservices.
+[WildFly Swarm](http://wildfly-swarm.io) - Allows putting services into a single deployable, but still Java EE conformant jar. Perfect for microservices. No supported offering from Red Hat at the moment.
 
 [WildFly Swarm Generator](http://wildfly-swarm.io/generator/) - Like Spring boot - allows specifying the Java (EE) components you need for an application and creates a self-running "fat jar" out of it.
 
@@ -42,8 +42,6 @@ Very lightweight Java EE (and JavaScript!) environment, scalable, extensible.
 [RestEasy](http://resteasy.jboss.org) - Helps creating REST services on WildFly (being container agnostic, though).
 
 [Weld](http://weld.cdi-spec.org) - Java [CDI](http://cdi-spec.org/) implementation, already integrated in WildFly, but check out the [documentation](http://docs.jboss.org/weld/reference/latest/en-US/html/environments.html) if you want to use it elsewhere.
-
-[JBoss Tools](http://tools.jboss.org) - Eclipse plugins for JBoss technology. Red Hat support under the name *JBoss Developer Studio*.
 
 [Undertow](http://undertow.io) - is "is a flexible performant web server written in java, providing both blocking and non-blocking API’s based on NIO". Also the standard webserver in Wildfly.
  
@@ -90,6 +88,8 @@ Core services are enterprise components offered by Red Hat to any middleware pro
 [Keycloak](http://keycloak.jboss.org) - SSO solution (including social auth). Out-of-the box screens, zero-coding setups, session administration etc. Like OpenSSO on steroids. Deployable to an app server, as black box appliance or to OpenShift as a container. Includes the former [PicketLink](http://www.picketlink.org) project. (Enterprise product: Red Hat SSO, part of core services, see above). Support enabled product name is ~Red Hat SSO~.
 
 [RHQ](http://rhq-project.github.io/rhq/) - Is an extensible component for all kind of monitoring, operations, alerting in the JBoss space, includes Apache HTTPD and Tomcat operations, too. Subscribed product is "Red Hat JBoss Operations Network" (JON).
+
+[JBoss Tools](http://tools.jboss.org) - Eclipse plugins for JBoss technology. Red Hat support under the name *JBoss Developer Studio*.
 
 ===
 (not yet mapped)
