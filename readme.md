@@ -127,6 +127,8 @@ Core services are enterprise components offered by Red Hat to any middleware pro
 ### Red Hat
 [JBoss Enterprise Application Platform (EAP)](http://www.redhat.com/en/technologies/jboss-middleware/application-platform) - Basically the licensed and supported WildFly offering from Red Hat.
 
+[Red Hat JBoss Web Server](https://www.redhat.com/en/technologies/jboss-middleware/web-server) - Apache Tomcat supported by Red Hat. Includes clustering (which is not included in Red Hat Enterprise Linux though Apache Tomcat support is there) support as well as Apache HTTPD support. JBoss Web Server Pro extends the commercial offering with Hibernate support. 
+
 [JBoss Fuse](http://www.redhat.com/en/technologies/jboss-middleware/fuse) - Bundles different upstream projects addressing integration (e.g. Apache Camel) to a complete integration suite.
 
 [JBoss A-MQ](http://www.redhat.com/en/technologies/jboss-middleware/amq) - The supported messaging subsystem offering from Red Hat.
