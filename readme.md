@@ -33,6 +33,8 @@ Very lightweight Java EE (and JavaScript!) environment, scalable, extensible. Un
 
 [Apache Tomcat](http://tomcat.apache.org) - The versatile Servlet Engine is available with support by Red Hat as JBoss Enterprise Web Server. (JBoss EWS). B.t.w. - Red Hat JBoss EWS + Hibernate Support == EWS Pro.
 
+[FeedHenry](http://feedhenry.org/) - A mobile backend-as-a-service solution. Implemented in Node.js, fully-fledged with API management, web based screen development, monitoring, security, push notifications. It's definitely worth a try and unfortunately a bit overseen especially in the iOS community.
+
 [WildFly Swarm](http://wildfly-swarm.io) - Allows putting services into a single deployable, but still Java EE conformant jar. Perfect for microservices. No supported offering from Red Hat at the moment.
 
 [WildFly Swarm Generator](http://wildfly-swarm.io/generator/) - Like Spring boot - allows specifying the Java (EE) components you need for an application and creates a self-running "fat jar" out of it.
@@ -114,8 +116,6 @@ Core services are enterprise components offered by Red Hat to any middleware pro
 [Iron Jacamar](http://www.ironjacamar.org) - SCA 1.7 implementation. Used in WildFly.
 
 [Project Raincatcher](https://github.com/feedhenry-raincatcher) - Mobile workforce management for FeedHenry/Red Hat Mobile Platform (see below). Also an useful approach for getting started with implementing workflows based on Node.js.
-
-[FeedHenry](http://feedhenry.org/) - A mobile backend-as-a-service solution. Implemented in Node.js, fully-fledged with API management, web based screen development, monitoring, security, push notifications. It's definitely worth a try and unfortunately a bit overseen especially in the iOS community.
 
 [JBoss Forge](forge.jboss.org) - Scaffolding framework - Allows you creating an entire Java EE app by just providing entity and comfigrational imformation, either at the command line or in JBoss Developer Studio. Reminds me of the discontinued (?) Spring Roo.
 
