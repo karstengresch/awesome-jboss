@@ -29,7 +29,7 @@ Be aware that many projects appear in all categories (e.g. general-purpose libra
 **Foundation (aka Accelerate)**
 
 [WildFly](http://wildfly.org) - Formerly called JBoss Application Server (JBoss AS), but JBoss is now reserved for the offerings supported by Red Hat and the product's name is now Red Hat JBoss Enterprise Application Server (aka EAP).
-Very lightweight Java EE (and JavaScript!) environment, scalable, extensible. Unzip - run. It's that easy.
+Very lightweight Java EE (and JavaScript!) environment, scalable, extensible. Unzip - run. It's that easy. And it's that lightweight it can just be embedded into the administration command line interface (CLI) for allowing offline configuration.
 
 [Apache Tomcat](http://tomcat.apache.org) - The versatile Servlet Engine is available with support by Red Hat as JBoss Enterprise Web Server. (JBoss EWS). B.t.w. - Red Hat JBoss EWS + Hibernate Support == EWS Pro.
 
