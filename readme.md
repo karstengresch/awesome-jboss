@@ -24,7 +24,7 @@ Red Hat's general categories from above (Accelerate-Integrate-Automate) is here 
 
 Example: Upstream project is WildFly, commercial project is Accelerate/Red Hat JBoss EAP.
 
-Be aware that many projects appear in all categories (e.g. general-purpose libraries). The approach here is avoiding redundancies and mention appearances in other categories where the project first appears.
+Be aware that many projects appear in all categories (e.g. general-purpose libraries). The approach here is avoiding redundancies. So widely used projects are mentioned once in one category. It might be mentioned where they appear else.
 
 **Foundation (aka Accelerate)**
 
