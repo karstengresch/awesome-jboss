@@ -33,7 +33,7 @@ Very lightweight Java EE (and JavaScript!) environment, scalable, extensible. Un
 
 [Apache Tomcat](http://tomcat.apache.org) - The versatile Servlet Engine is available with support by Red Hat as JBoss Enterprise Web Server. (JBoss EWS). B.t.w. - Red Hat JBoss EWS + Hibernate Support == EWS Pro.
 
-[FeedHenry](http://feedhenry.org/) - A mobile backend-as-a-service solution. Implemented in Node.js, fully-fledged with API management, web based screen development, monitoring, security, push notifications. It's definitely worth a try and unfortunately a bit overseen especially in the iOS community.
+[FeedHenry](http://feedhenry.org/) - A mobile backend-as-a-service solution. Implemented in Node.js, fully-fledged with API management, web based screen development, monitoring, security, push notifications. It's definitely worth a try and unfortunately a bit overseen especially in the iOS community. Furthermore comes with a very powerful workforce management framework, [FeedHenry Raincatcher](https://github.com/feedhenry-raincatcher) which can be used to e.g. track and instruct outdoor workforce.
 
 [WildFly Swarm](http://wildfly-swarm.io) - Allows putting services into a single deployable, but still Java EE conformant jar. Perfect for microservices. No supported offering from Red Hat at the moment.
 
