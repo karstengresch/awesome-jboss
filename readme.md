@@ -96,6 +96,7 @@ Core services are enterprise components offered by Red Hat to any middleware pro
 ===
 (not yet mapped)
 
+[Hawtio](http://hawt.io) - A pluggable management console for Java stuff which supports any kind of JVM, any kind of container (Tomcat, Jetty, Karaf, JBoss, Fuse Fabric, etc), and any kind of Java technology and middleware. Basis for Hawkular, JON et al.
 
 [Narayana](http://narayana.io) - Transaction manager, even spans across C++ and Java.
 
