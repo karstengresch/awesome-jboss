@@ -143,6 +143,8 @@ Core services are enterprise components offered by Red Hat to any middleware pro
 
 ## JBoss (Related) Blogs
 
+[Athico - Drools & jBPM](http://blog.athico.com) - Latest and greatest from the Drools (JBoss BRMS upstream) and jBPM (JBoss BPMS upstream) projects.
+
 [Geerd Schuring's Blog: Open Source Java Middleware](https://geertschuring.wordpress.com)
 
 [Markus Eisele's Blog: "Java EE and general Java platforms. You'll read about Conferences, Java User Groups, Java EE, Integration, AS7, WildFly, EAP and other technologies."](http://blog.eisele.net)
