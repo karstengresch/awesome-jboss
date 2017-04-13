@@ -71,6 +71,9 @@ Very lightweight Java EE (and JavaScript!) environment, scalable, extensible. Un
 
 [Debezium](http://debezium.io) - Database event streaming. Allows creating reactive/event sourced applications. Extremely useful for monolith decoupling.
 
+[nginx](http://nginx.org) - (pronounced: "engine x") - is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server. Core of the 3Scale API management solution.
+
+[Drools Fusion](http://drools.jboss.org/drools-fusion.html) - Is the component for complex event processing of BPMS and BRMS.
 
 **Automate**
 
@@ -130,15 +133,21 @@ Core services are enterprise components offered by Red Hat to any middleware pro
 
 [Red Hat JBoss Web Server](https://www.redhat.com/en/technologies/jboss-middleware/web-server) - Apache Tomcat supported by Red Hat. Includes clustering (which is not included in Red Hat Enterprise Linux though Apache Tomcat support is there) support as well as Apache HTTPD support. JBoss Web Server Pro extends the commercial offering with Hibernate support. 
 
+[JBoss A-MQ](http://www.redhat.com/en/technologies/jboss-middleware/amq) - The supported messaging subsystem offering from Red Hat.
+
 [JBoss Fuse](http://www.redhat.com/en/technologies/jboss-middleware/fuse) - Bundles different upstream projects addressing integration (e.g. Apache Camel) to a complete integration suite.
 
-[JBoss A-MQ](http://www.redhat.com/en/technologies/jboss-middleware/amq) - The supported messaging subsystem offering from Red Hat.
+[JBoss Business Process Management Suite](https://www.redhat.com/en/technologies/jboss-middleware/bpm) - Is a comprehensive suite for running business processes in an enterprise environment (including simulation, analysis, human tasks and alike). Includes JBoss BRMS, JBoss Resource Planner (upstream project: OptaPlanner) and 
+
+[JBoss Business Rules Management System](https://www.redhat.com/en/technologies/jboss-middleware/business-rules) - 
+
+[3Scale](https://www.redhat.com/en/technologies/jboss-middleware/3scale) - Real API management system
 
 [JBoss Data Virtualization](http://www.redhat.com/en/technologies/jboss-middleware/data-virtualization) - Red Hat's complete offering around projects like Teiid.
 
 [JBoss Mobile Application Platform](http://www.redhat.com/en/technologies/mobile/application-platform) - A backend-as-a-service (BaaS) solution, based on Node.js. Offline sync, authentication, web based app development, API and workforce management - all covered. Formerly known as Feedhenry.
 
-[OpenShift](https://www.openshift.com) - Is a solution based on Docker, Kubernetes and other community projects that allows deploying JBoss applications (and others) to a PaaS by just committing code changes to e.g. GitHub.
+[OpenShift](https://www.openshift.com) - Is a solution based on Docker, Kubernetes and other community projects that allows deploying JBoss applications (and others) to a PaaS by just committing code changes to e.g. GitHub. Each supported Red Hat middleware product is available as a docker container and can be deployed onto OpenShift.
 
 
 ## JBoss (Related) Blogs
