@@ -187,7 +187,11 @@ Red Hat sponsored program - selected members of JBoss Developers that made huge 
 
 [Jason T. Greene](https://twitter.com/jtgreene) - WildFly lead.
 
-[Eric D. Schabell](http://www.schabell.org) - JBoss Technology Evangelist. 
+[Eric D. Schabell](http://www.schabell.org) - JBoss Technology Evangelist.
+
+[Marc Proctor](http://markproctor.com) - Drools/BRMS lead. [Mark Proctor on Twitter](https://twitter.com/markproctor) 
+
+[Geoffrey de Smet](https://twitter.com/GeoffreyDeSmet) - [OptaPlanner](http://www.optaplanner.org) lead. Known to solve the most complex multidimensional problems arising the in the real world ;)
 
 [Kris Verlaenen](https://plus.google.com/+KrisVerlaenen/about) - jBPM project lead, Red Hat Senior Software Engineer, Drools comitter. 
 
