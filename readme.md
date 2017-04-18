@@ -174,6 +174,8 @@ Core services are enterprise components offered by Red Hat to any middleware pro
 
 [Maciej Swiderski on jBPM: "Accelerate your business"](http://mswiderski.blogspot.de) - Maciej is a core jBPM developer and gives insights on his blog - tips and tricks and new/upcoming jBPM features explained.
 
+[Kamesh Sampath "Workspace7 Blogs"](https://blogs.workspace7.org/) - Kamesh is a Senior Consultant at Red Hat and mixes technologies like Spring Boot with Red Hat SSO, a few, but detailed and practical tutorials. Also check out his contributions at (https://developers.redhat.com/blog/author/kameshsampath/).
+
 
 ## Informational Resources (Like DZone)
 
