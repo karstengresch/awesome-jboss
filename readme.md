@@ -229,8 +229,9 @@ Red Hat sponsored program - selected members of JBoss Developers that made huge 
 
 
 ## Books
-TBD - at least all JBoss related from Mannimg, Packt, Apress, O'Reilly
+TBD - at least all JBoss related from Manning, Packt, Apress, O'Reilly
 
+[OpenShift for Developers (Grant Shipley and Graham Dumpleton, O'Reilly, free eBook)](https://www.openshift.com/promotions/for-developers.html) - Gets you started with technology agnostic (well, at least Java, Java EE, Ruby, PHP, Python, Node.js, Shell Scripts and .NET) PaaS development. Hands-on-approach, absolutely recommended for every person capable of coding a tiny bit.
 
 ## Supporting/Related Software
 
