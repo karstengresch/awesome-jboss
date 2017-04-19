@@ -127,6 +127,8 @@ Core services are enterprise components offered by Red Hat to any middleware pro
 
 [Patternfly](http://www.patternfly.org) - Is a collection of guides, UI templates and UX patterns for creating UIs for the enterprise. More and more used in JBoss projects.
 
+[Uberfire](http://www.uberfireframework.org/) - UberFire is a web framework for building extensible workbenches and console type applications. Foundation of the Drools (JBoss BRMS) and jBPM (BPMS) workbench.
+
 
 ### Red Hat
 [JBoss Enterprise Application Platform (EAP)](http://www.redhat.com/en/technologies/jboss-middleware/application-platform) - Basically the licensed and supported WildFly offering from Red Hat.
