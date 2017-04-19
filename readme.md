@@ -113,8 +113,6 @@ Core services are enterprise components offered by Red Hat to any middleware pro
 
 [apiman](http://www.apiman.io/) - Allows applying runtime policy governance to APIs. Uses cases e.g.: service throttling, centralized security, billing and metrics. Discontinued due to the 3Scale acquisition.
 
-[Errai](http://erraiframework.org) Based on GWT, Errai allows type safe web applications (HTML5) based on Java EE. Shared code between platform and server.
-
 [Jolokia](https://jolokia.org) - HTTP/JSON bridge for remote JMX access. Built into Fuse and WildFly.
 
 [Iron Jacamar](http://www.ironjacamar.org) - SCA 1.7 implementation. Used in WildFly.
@@ -127,8 +125,9 @@ Core services are enterprise components offered by Red Hat to any middleware pro
 
 [Patternfly](http://www.patternfly.org) - Is a collection of guides, UI templates and UX patterns for creating UIs for the enterprise. More and more used in JBoss projects.
 
-[Uberfire](http://www.uberfireframework.org/) - UberFire is a web framework for building extensible workbenches and console type applications. Foundation of the Drools (JBoss BRMS) and jBPM (BPMS) workbench.
+[Errai](http://erraiframework.org) Based on GWT, Errai allows type safe web applications (HTML5) based on Java EE. Shared code between platform and server.
 
+[Uberfire](http://www.uberfireframework.org/) - UberFire is a web framework for building extensible workbenches and console type applications. Foundation of the Drools (JBoss BRMS) and jBPM (BPMS) workbench. Built on top of Errai.
 
 ### Red Hat
 [JBoss Enterprise Application Platform (EAP)](http://www.redhat.com/en/technologies/jboss-middleware/application-platform) - Basically the licensed and supported WildFly offering from Red Hat.
