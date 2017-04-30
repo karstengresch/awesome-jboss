@@ -72,7 +72,7 @@ Very lightweight Java EE (and JavaScript!) environment, scalable, extensible. Un
 
 [nginx](http://nginx.org) - (pronounced: "engine x") - is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server. Core of the 3Scale API management solution.
 
-[Drools Fusion](http://drools.jboss.org/drools-fusion.html) - Is the component for complex event processing of BPMS and BRMS.
+[Drools Fusion](http://drools.jboss.org/drools-fusion.html) - Is the component for complex event processing in BRMS.
 
 **Automate**
 
