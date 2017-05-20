@@ -108,6 +108,8 @@ Core services are enterprise components offered by Red Hat to any middleware pro
 
 [Hawkular](http://www.hawkular.org) - Feature full monitoring and management platform.
 
+[ManageIQ](http://manageiq.org) - Single platform to manage containers, virtual machines, networks amd other stuff. Subscription offering is called CloudForms.
+
 [fabric8](http://fabric8.io) - Feature complete open source DevOps Platform, supports Docker, Kubernetes, OpenShift. This multi-multi-multi-module stack offers everything from base continuous delivery (incl. Chaos Monkey!) over management (incl. taiga.io! Gerrit! has metrics and is searchable) to communication (Slack!). NB - fabric8 is also a component in the even bigger JBoss Fuse stack.
 
 [apiman](http://www.apiman.io/) - Allows applying runtime policy governance to APIs. Uses cases e.g.: service throttling, centralized security, billing and metrics. Discontinued due to the 3Scale acquisition.
