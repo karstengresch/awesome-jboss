@@ -54,6 +54,8 @@ Very lightweight Java EE (and JavaScript!) environment, scalable, extensible. Un
 
 [JBoss Fuse](http://www.jboss.org/products/fuse/overview/) - The integration component of the broader JBoss middleware stack. Built on Apache Camel, Apache ActiveMQ, Apache CXF and Apache Karaf (as well as integrating fabric8, see all below), Fuse enables you doing integration projects programatically.
 
+[Syndesis](https://syndesis.io) - iPaas solution, running on Kubernetes or OpenShift. Think of Eclipse Che but for integration: wizard based project creation, adatper selection and configuration as well as data mapping - all from within your browser. For the low coders/citizen developers of us.
+
 [Apache ActiveMQ](http://activemq.apache.org) - A popular JMS implementation (JMS 1.1 in the beginning).
 
 [Apache Camel](http://camel.apache.org) - A routing and mediation engine for implementing most of the [enterprise integration patterns](http://www.eaipatterns.com/toc.html). DSLs for many languages as well as XML configuration for routing rules are available.
