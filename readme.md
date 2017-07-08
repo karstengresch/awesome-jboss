@@ -151,7 +151,9 @@ Core services are enterprise components offered by Red Hat to any middleware pro
 
 [JBoss Mobile Application Platform](http://www.redhat.com/en/technologies/mobile/application-platform) - A backend-as-a-service (BaaS) solution, based on Node.js. Offline sync, authentication, web based app development, API and workforce management - all covered. Formerly known as Feedhenry.
 
-[OpenShift](https://www.openshift.com) - Is a solution based on Docker, Kubernetes and other community projects that allows deploying JBoss applications (and others) to a PaaS by just committing code changes to e.g. GitHub. Each supported Red Hat middleware product is available as a docker container and can be deployed onto OpenShift.
+[OpenShift](https://www.openshift.com) - Is a PaaS solution based on Docker, Kubernetes and other community projects that allows deploying JBoss applications (and others) to it by just committing code changes to a Git repository. Each supported Red Hat middleware product is available as a docker container and can be deployed onto OpenShift.
+
+[openshift.io](https://openshift.io) - An online offering based on OpenShift that includes special developer support regarding tooling (e.g. Spring Boot, WildFly Swarm and other microservice ready launchpads) and collaboration (e.g. Scrum/Kanban boards).
 
 
 ## JBoss (Related) Blogs
