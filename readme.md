@@ -23,14 +23,14 @@ Red Hat's general categories from above (Accelerate-Integrate-Automate) is here 
 
 Example: Upstream project is WildFly, commercial project is Accelerate/Red Hat JBoss EAP.
 
-Be aware that many projects appear in all categories (e.g. general-purpose libraries). The approach is avoiding redundancies. So widely used projects are mentioned once in one category. It might be mentioned where they appear else.
+Be aware that many projects appear in all categories (e.g. general-purpose libraries). The approach is avoiding redundancies. So widely used projects are mentioned once in one category. It ~might~ be mentioned where they appear else.
 
 **Foundation (aka Accelerate)**
 
 [WildFly](http://wildfly.org) - Formerly called JBoss Application Server (JBoss AS), but JBoss got reserved as brand of the offerings supported by Red Hat and the product's name is now Red Hat JBoss Enterprise Application Server (aka EAP).
-Very lightweight Java EE (and JavaScript!) environment, scalable, extensible. Unzip - run. It's that easy. And it's that lightweight it can just be embedded into the administration command line interface (CLI) for allowing offline configuration.
+Very lightweight Java EE (and JavaScript!) environment, scalable, extensible. Unzip - run. It's that easy. And it's so lightweight it can just be embedded into the administration command line interface (CLI) for allowing offline configuration.
 
-[Apache Tomcat](http://tomcat.apache.org) - The versatile Servlet Engine is available with support by Red Hat as JBoss Enterprise Web Server. (JBoss EWS). B.t.w. - Red Hat JBoss EWS + Hibernate Support == EWS Pro.
+[Apache Tomcat](http://tomcat.apache.org) - The versatile Servlet Engine is available with support by Red Hat as JBoss Enterprise Web Server. (JBoss EWS). B.t.w. - Red Hat JBoss EWS + Hibernate Support == EWS Pro (discontinued).
 
 [FeedHenry](http://feedhenry.org/) - A mobile backend-as-a-service solution. Implemented in Node.js, fully-fledged with API management, web based screen development, monitoring, security, push notifications. It's definitely worth a try and unfortunately a bit overseen especially in the iOS community. Furthermore comes with a very powerful workforce management framework, [FeedHenry Raincatcher](https://github.com/feedhenry-raincatcher) which can be used to e.g. track and instruct outdoor workforce.
 
