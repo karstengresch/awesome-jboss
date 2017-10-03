@@ -45,8 +45,6 @@ Very lightweight Java EE (and JavaScript!) environment, scalable, extensible. Un
 [Weld](http://weld.cdi-spec.org) - Java [CDI](http://cdi-spec.org/) implementation, already integrated in WildFly, but check out the [documentation](http://docs.jboss.org/weld/reference/latest/en-US/html/environments.html) if you want to use it elsewhere.
 
 [Undertow](http://undertow.io) - is "is a flexible performant web server written in java, providing both blocking and non-blocking API’s based on NIO". Also the standard webserver in Wildfly.
- 
-[Nodyn](http://nodyn.io) - Framework allowing running server side JavaScript - bit like a JVM version of Node.js. 
 
 [Immutant](http://immutant.org) - Clojure libraries to make JBoss work in the clojure world. Includes Infinispan, Undertow and other integrations.
 
