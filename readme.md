@@ -108,6 +108,8 @@ Core services are enterprise components offered by Red Hat to any middleware pro
 
 [Hawkular](http://www.hawkular.org) - Feature full monitoring and management platform.
 
+[Jaeger](https://uber.github.io/jaeger/) - Uber's OpenTracing compatible tracing/monitoring system. Hawkular supposed to be abanoned in favor of Jaeger.
+
 [ManageIQ](http://manageiq.org) - Single platform to manage containers, virtual machines, networks amd other stuff. Subscription offering is called CloudForms.
 
 [fabric8](http://fabric8.io) - Feature complete open source DevOps Platform, supports Docker, Kubernetes, OpenShift. This multi-multi-multi-module stack offers everything from base continuous delivery (incl. Chaos Monkey!) over management (incl. taiga.io! Gerrit! has metrics and is searchable) to communication (Slack!). NB - fabric8 is also a component in the even bigger JBoss Fuse stack.
