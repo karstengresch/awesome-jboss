@@ -132,6 +132,8 @@ Core services are enterprise components offered by Red Hat to any middleware pro
 
 [Uberfire](http://www.uberfireframework.org/) - UberFire is a web framework for building extensible workbenches and console type applications. Foundation of the Drools (JBoss BRMS) and jBPM (BPMS) workbench. Built on top of Errai.
 
+[radanalytics.io](http://radanalytics.io) - Data driven application development on OpenShift. Set up a containerized Spark cluster in a few minutes (or less).
+
 ### Red Hat
 [JBoss Enterprise Application Platform (EAP)](http://www.redhat.com/en/technologies/jboss-middleware/application-platform) - Basically the licensed and supported WildFly offering from Red Hat.
 
