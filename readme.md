@@ -54,6 +54,8 @@ Very lightweight Java EE (and JavaScript!) environment, scalable, extensible. Un
 
 [Syndesis](https://syndesis.io) - iPaas solution, running on Kubernetes or OpenShift. Think of Eclipse Che but for integration: wizard based project creation, adatper selection and configuration as well as data mapping - all from within your browser. For the low coders/citizen developers of us.
 
+[Enmasse](http://enmasse.io) - A messaging subsystem for Kubernetes and OpenShift. Sporting latest and greatest MQTT and AMQP (amongst other protocols).
+
 [Apache ActiveMQ](http://activemq.apache.org) - A popular JMS implementation (JMS 1.1 in the beginning).
 
 [Apache Camel](http://camel.apache.org) - A routing and mediation engine for implementing most of the [enterprise integration patterns](http://www.eaipatterns.com/toc.html). DSLs for many languages as well as XML configuration for routing rules are available.
